@@ -1,2 +1,2 @@
 # JavaScript-sintaxe
-Inicio ao estudo de Java Script
+Utilizando Java Script para criar uma calculadora
